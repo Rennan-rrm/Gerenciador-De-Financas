@@ -1,7 +1,7 @@
 usuarios=[
-    {"id":1114188629, "nome":"Rennan"},
-    {"id":589569898, "nome":"Tulio"},
-    {"id":7720787852, "nome":"Grazielly"}
+    {"id":*********, "nome":"*********"},
+    {"id":*********, "nome":"*********"},
+    {"id":*********, "nome":"*********"}
 ]
 def identificar_usuario(usuario_id):
 
